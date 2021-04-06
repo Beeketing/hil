@@ -3,8 +3,8 @@ package parser
 import (
 	"fmt"
 
-	"github.com/hashicorp/hil/ast"
-	"github.com/hashicorp/hil/scanner"
+	"github.com/Beeketing/hil/ast"
+	"github.com/Beeketing/hil/scanner"
 )
 
 type ParseError struct {

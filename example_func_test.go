@@ -5,8 +5,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/hashicorp/hil"
-	"github.com/hashicorp/hil/ast"
+	"github.com/Beeketing/hil"
+	"github.com/Beeketing/hil/ast"
 )
 
 func Example_functions() {

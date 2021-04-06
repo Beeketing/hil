@@ -3,7 +3,7 @@ package hil
 import (
 	"testing"
 
-	"github.com/hashicorp/hil/ast"
+	"github.com/Beeketing/hil/ast"
 )
 
 func TestIdentifierCheck(t *testing.T) {

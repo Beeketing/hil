@@ -1,4 +1,4 @@
-module github.com/hashicorp/hil
+module github.com/Beeketing/hil
 
 require (
 	github.com/mitchellh/mapstructure v1.1.2

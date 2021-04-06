@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/hashicorp/hil"
-	"github.com/hashicorp/hil/ast"
+	"github.com/Beeketing/hil"
+	"github.com/Beeketing/hil/ast"
 )
 
 func Example_variables() {

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/hashicorp/hil/ast"
+	"github.com/Beeketing/hil/ast"
 )
 
 func TestScanner(t *testing.T) {

@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"unicode/utf8"
 
-	"github.com/hashicorp/hil/ast"
-	"github.com/hashicorp/hil/scanner"
+	"github.com/Beeketing/hil/ast"
+	"github.com/Beeketing/hil/scanner"
 )
 
 func Parse(ch <-chan *scanner.Token) (ast.Node, error) {

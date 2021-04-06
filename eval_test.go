@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hashicorp/hil/ast"
+	"github.com/Beeketing/hil/ast"
 )
 
 func TestEval(t *testing.T) {

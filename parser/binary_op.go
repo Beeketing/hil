@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"github.com/hashicorp/hil/ast"
-	"github.com/hashicorp/hil/scanner"
+	"github.com/Beeketing/hil/ast"
+	"github.com/Beeketing/hil/scanner"
 )
 
 var binaryOps []map[scanner.TokenType]ast.ArithmeticOp

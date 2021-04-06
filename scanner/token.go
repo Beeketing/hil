@@ -3,7 +3,7 @@ package scanner
 import (
 	"fmt"
 
-	"github.com/hashicorp/hil/ast"
+	"github.com/Beeketing/hil/ast"
 )
 
 type Token struct {

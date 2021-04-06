@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/hashicorp/hil/ast"
+	"github.com/Beeketing/hil/ast"
 )
 
 // NOTE: All builtins are tested in engine_test.go

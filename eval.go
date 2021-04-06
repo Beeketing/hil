@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/hashicorp/hil/ast"
+	"github.com/Beeketing/hil/ast"
 )
 
 // EvalConfig is the configuration for evaluating.

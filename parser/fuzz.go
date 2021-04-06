@@ -3,8 +3,8 @@
 package parser
 
 import (
-	"github.com/hashicorp/hil/ast"
-	"github.com/hashicorp/hil/scanner"
+	"github.com/Beeketing/hil/ast"
+	"github.com/Beeketing/hil/scanner"
 )
 
 // This is a fuzz testing function designed to be used with go-fuzz:
